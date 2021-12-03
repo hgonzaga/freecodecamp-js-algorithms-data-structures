@@ -1,2 +1,2 @@
-# freecodecamp-responsive-web-design
-freeCodeCamp - Responsive Web Design
+# freecodecamp-js-algorithms-data-structures
+freeCodeCamp - JavaScript Algorithms and Data Structures
