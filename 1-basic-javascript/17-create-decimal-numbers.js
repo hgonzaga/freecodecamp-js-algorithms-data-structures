@@ -7,5 +7,5 @@ Create a variable myDecimal and give it a decimal value with a fractional part (
 */
 const ourDecimal = 5.7;
 
-// Only change code below this line
+// only changed code below this line
 const myDecimal = 1.1;
