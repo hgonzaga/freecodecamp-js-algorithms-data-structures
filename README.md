@@ -1,4 +1,4 @@
-# freeCodeCamp JavaScript Algorithms and Data Structures (2021)
+# freeCodeCamp - JavaScript Algorithms and Data Structures (2021)
 
 My solution proposals for
 the [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
@@ -20,4 +20,8 @@ freeCodeCamp course description:
 - [ ] [Intermediate Algorithm Scripting]()
 - [ ] [JavaScript Algorithms and Data Structures Projects]()
 
-###### Disclaimer: This repository should not be viewed as a facilitator for these courses. This is intended to highlight and memorize my journey through this certification.
+### Languages
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" alt="javascript"/>
+
+###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.
