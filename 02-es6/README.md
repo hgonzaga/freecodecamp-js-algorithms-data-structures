@@ -40,4 +40,4 @@ freeCodeCamp module description:
 
 ⬅️ [Back to main file](../README.md)
 
-###### Disclaimer: This repository should not be viewed as a facilitator for these courses. This is intended to highlight and memorize my journey through this certification.
+###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.
