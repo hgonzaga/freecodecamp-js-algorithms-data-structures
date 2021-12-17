@@ -1,126 +1,127 @@
 # Basic JavaScript
 
 My solution proposals for
-the [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) exercises.
+the [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+exercises.
 
 freeCodeCamp module description:
 > *"JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers. In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more."*
 
 ### Exercises
 
-1. Comment Your JavaScript Code
-2. Declare JavaScript Variables
-3. Storing Values with the Assignment Operator
-4. Assigning the Value of One Variable to Another
-5. Initializing Variables with the Assignment Operator
-6. Declare String Variables
-7. Understanding Uninitialized Variables
-8. Understanding Case Sensitivity in Variables
-9. Explore Differences Between the var and let Keywords
-10. Declare a Read-Only Variable with the const Keyword
-11. Add Two Numbers with JavaScript
-12. Subtract One Number from Another with JavaScript
-13. Multiply Two Numbers with JavaScript
-14. Divide One Number by Another with JavaScript
-15. Increment a Number with JavaScript
-16. Decrement a Number with JavaScript
-17. Create Decimal Numbers with JavaScript
-18. Multiply Two Decimals with JavaScript
-19. Divide One Decimal by Another with JavaScript
-20. Finding a Remainder in JavaScript
-21. Compound Assignment With Augmented Addition
-22. Compound Assignment With Augmented Subtraction
-23. Compound Assignment With Augmented Multiplication
-24. Compound Assignment With Augmented Division
-25. Escaping Literal Quotes in Strings
-26. Quoting Strings with Single Quotes
-27. Escape Sequences in Strings
-28. Concatenating Strings with Plus Operator
-29. Concatenating Strings with the Plus Equals Operator
-30. Constructing Strings with Variables
-31. Appending Variables to Strings
-32. Find the Length of a String
-33. Use Bracket Notation to Find the First Character in a String
-34. Understand String Immutability
-35. Use Bracket Notation to Find the Nth Character in a String
-36. Use Bracket Notation to Find the Last Character in a String
-37. Use Bracket Notation to Find the Nth-to-Last Character in a String
-38. Word Blanks
-39. Store Multiple Values in one Variable using JavaScript Arrays
-40. Nest one Array within Another Array
-41. Access Array Data with Indexes
-42. Modify Array Data With Indexes
-43. Access Multi-Dimensional Arrays With Indexes
-44. Manipulate Arrays With push()
-45. Manipulate Arrays With pop()
-46. Manipulate Arrays With shift()
-47. Manipulate Arrays With unshift()
-48. Shopping List
-49. Write Reusable JavaScript with Functions
-50. Passing Values to Functions with Arguments
-51. Return a Value from a Function with Return
-52. Global Scope and Functions
-53. Local Scope and Functions
-54. Global vs. Local Scope in Functions
-55. Understanding Undefined Value returned from a Function
-56. Assignment with a Returned Value
-57. Stand in Line
-58. Understanding Boolean Values
-59. Use Conditional Logic with If Statements
-60. Comparison with the Equality Operator
-61. Comparison with the Strict Equality Operator
-62. Practice comparing different values
-63. Comparison with the Inequality Operator
-64. Comparison with the Strict Inequality Operator
-65. Comparison with the Greater Than Operator
-66. Comparison with the Greater Than Or Equal To Operator
-67. Comparison with the Less Than Operator
-68. Comparison with the Less Than Or Equal To Operator
-69. Comparisons with the Logical And Operator
-70. Comparisons with the Logical Or Operator
-71. Introducing Else Statements
-72. Introducing Else If Statements
-73. Logical Order in If Else Statements
-74. Chaining If Else Statements
-75. Golf Code
-76. Selecting from Many Options with Switch Statements
-77. Adding a Default Option in Switch Statements
-78. Multiple Identical Options in Switch Statements
-79. Replacing If Else Chains with Switch
-80. Returning Boolean Values from Functions
-81. Return Early Pattern for Functions
-82. Counting Cards
-83. Build JavaScript Objects
-84. Accessing Object Properties with Dot Notation
-85. Accessing Object Properties with Bracket Notation
-86. Accessing Object Properties with Variables
-87. Updating Object Properties
-88. Add New Properties to a JavaScript Object
-89. Delete Properties from a JavaScript Object
-90. Using Objects for Lookups
-91. Testing Objects for Properties
-92. Manipulating Complex Objects
-93. Accessing Nested Objects
-94. Accessing Nested Arrays
-95. Record Collection
-96. Iterate with JavaScript While Loops
-97. Iterate with JavaScript For Loops
-98. Iterate Odd Numbers With a For Loop
-99. Count Backwards With a For Loop
-100. Iterate Through an Array with a For Loop
-101. Nesting For Loops
-102. Iterate with JavaScript Do...While Loops
-103. Replace Loops using Recursion
-104. Profile Lookup
-105. Generate Random Fractions with JavaScript
-106. Generate Random Whole Numbers with JavaScript
-107. Generate Random Whole Numbers within a Range
-108. Use the parseInt Function
-109. Use the parseInt Function with a Radix
-110. Use the Conditional (Ternary) Operator
-111. Use Multiple Conditional (Ternary) Operators
-112. Use Recursion to Create a Countdown
-113. Use Recursion to Create a Range of Numbers
+- [X] [ 001 - Comment Your JavaScript Code](001-comment-your-code.js)
+- [X] [ 002 - Declare JavaScript Variables](002-declare-variables.js)
+- [X] [ 003 - Storing Values with the Assignment Operator](003-storing-values-with-assignment-operator.js)
+- [X] [ 004 - Assigning the Value of One Variable to Another](004-assigning-value-of-variable-to-another.js)
+- [X] [ 005 - Initializing Variables with the Assignment Operator](005-initializing-variables-with-assignment-operator.js)
+- [X] [ 006 - Declare String Variables](006-declare-string-variables.js)
+- [X] [ 007 - Understanding Uninitialized Variables](007-understanding-uninitialized-variables.js)
+- [X] [ 008 - Understanding Case Sensitivity in Variables](008-understanding-case-sensitivity-in-variables.js)
+- [X] [ 009 - Explore Differences Between the var and let Keywords](009-explore-differences-between-var-and-let-keywords.js)
+- [X] [ 010 - Declare a Read-Only Variable with the const Keyword](010-declare-read-only-variable-with-const-keyword.js)
+- [X] [ 011 - Add Two Numbers with JavaScript](011-add-two-numbers.js)
+- [X] [ 012 - Subtract One Number from Another with JavaScript](012-subtract-one-number-from-another.js)
+- [X] [ 013 - Multiply Two Numbers with JavaScript](013-multiply-two-numbers.js)
+- [X] [ 014 - Divide One Number by Another with JavaScript](014-divide-one-number-by-another.js)
+- [X] [ 015 - Increment a Number with JavaScript](015-increment-number.js)
+- [X] [ 016 - Decrement a Number with JavaScript](016-decrement-number.js)
+- [X] [ 017 - Create Decimal Numbers with JavaScript](017-create-decimal-numbers.js)
+- [X] [ 018 - Multiply Two Decimals with JavaScript](018-multiply-two-decimals.js)
+- [X] [ 019 - Divide One Decimal by Another with JavaScript](019-divide-one-decimal-by-another.js)
+- [X] [ 020 - Finding a Remainder in JavaScript](020-finding-remainder.js)
+- [X] [ 021 - Compound Assignment With Augmented Addition](021-compound-assignment-with-augmented-addition.js)
+- [X] [ 022 - Compound Assignment With Augmented Subtraction](022-compound-assignment-with-augmented-subtraction.js)
+- [X] [ 023 - Compound Assignment With Augmented Multiplication](023-compound-assignment-with-augmented-multiplication.js)
+- [X] [ 024 - Compound Assignment With Augmented Division](024-compound-assignment-with-augmented-division.js)
+- [X] [ 025 - Escaping Literal Quotes in Strings](025-escaping-literal-quotes-in-strings.js)
+- [X] [ 026 - Quoting Strings with Single Quotes](026-quoting-strings-with-single-quotes.js)
+- [X] [ 027 - Escape Sequences in Strings](027-escape-sequences-in-strings.js)
+- [X] [ 028 - Concatenating Strings with Plus Operator](028-concatenating-strings-with-plus-operator.js)
+- [X] [ 029 - Concatenating Strings with the Plus Equals Operator](029-concatenating-strings-with-plus-equals-operator.js)
+- [X] [ 030 - Constructing Strings with Variables](030-constructing-strings-with-variables.js)
+- [X] [ 031 - Appending Variables to Strings](031-appending-variables-to-strings.js)
+- [X] [ 032 - Find the Length of a String](032-find-length-of-string.js)
+- [X] [ 033 - Use Bracket Notation to Find the First Character in a String](033-use-bracket-notation-to-find-first-character-in-string.js)
+- [X] [ 034 - Understand String Immutability](034-understand-string-immutability.js)
+- [X] [ 035 - Use Bracket Notation to Find the Nth Character in a String](035-use-bracket-notation-to-find-nth-character-in-string.js)
+- [X] [ 036 - Use Bracket Notation to Find the Last Character in a String](036-use-bracket-notation-to-find-last-character-in-string.js)
+- [X] [ 037 - Use Bracket Notation to Find the Nth-to-Last Character in a String](037-use-bracket-notation-to-find-nth-to-last-character-in-string.js)
+- [X] [ 038 - Word Blanks](038-word-blanks.js)
+- [X] [ 039 - Store Multiple Values in one Variable using JavaScript Arrays](039-store-multiple-values-in-one-variable-using-arrays.js)
+- [X] [ 040 - Nest one Array within Another Array](040-nest-one-array-within-another-array.js)
+- [X] [ 041 - Access Array Data with Indexes](041-access-array-data-with-indexes.js)
+- [X] [ 042 - Modify Array Data With Indexes](042-modify-array-data-with-indexes.js)
+- [X] [ 043 - Access Multi-Dimensional Arrays With Indexes](043-access-multi-dimensional-arrays-with-indexes.js)
+- [X] [ 044 - Manipulate Arrays With push()](044-manipulate-arrays-with-push.js)
+- [X] [ 045 - Manipulate Arrays With pop()](045-manipulate-arrays-with-pop.js)
+- [X] [ 046 - Manipulate Arrays With shift()](046-manipulate-arrays-with-shift.js)
+- [X] [ 047 - Manipulate Arrays With unshift()](047-manipulate-arrays-with-unshif.js)
+- [X] [ 048 - Shopping List](048-shopping-list.js)
+- [X] [ 049 - Write Reusable JavaScript with Functions](049-write-reusable-javascript-with-functions.js)
+- [X] [ 050 - Passing Values to Functions with Arguments](050-passing-values-to-functions-with-arguments.js)
+- [X] [ 051 - Return a Value from a Function with Return](051-return-value-from-function-wit-return.js)
+- [X] [ 052 - Global Scope and Functions](052-global-scope-and-functions.js)
+- [X] [ 053 - Local Scope and Functions](053-local-scope-and-functions.js)
+- [X] [ 054 - Global vs. Local Scope in Functions](054-global-vs-local-scope-in-functions.js)
+- [X] [ 055 - Understanding Undefined Value returned from a Function](055-understanding-undefined-value-returned-from-function.js)
+- [X] [ 056 - Assignment with a Returned Value](056-assignment-with-returned-value.js)
+- [X] [ 057 - Stand in Line](057-stand-in-line.js)
+- [X] [ 058 - Understanding Boolean Values](058-understanding-boolean-values.js)
+- [X] [ 059 - Use Conditional Logic with If Statements](059-use-conditional-logic-with-if-statements.js)
+- [X] [ 060 - Comparison with the Equality Operator](060-comparison-with-the-equality-operator.js)
+- [X] [ 061 - Comparison with the Strict Equality Operator](061-comparison-with-the-strict-equality-operator.js)
+- [X] [ 062 - Practice comparing different values](062-practice-comparing-different-values.js)
+- [X] [ 063 - Comparison with the Inequality Operator](063-comparison-with-the-inequality-operator.js)
+- [X] [ 064 - Comparison with the Strict Inequality Operator](064-comparison-with-the-strict-inequality-operator.js)
+- [X] [ 065 - Comparison with the Greater Than Operator](065-comparison-with-the-greater-than-operator.js)
+- [X] [ 066 - Comparison with the Greater Than Or Equal To Operator](066-comparison-with-the-greater-than-or-equal-to-operator.js)
+- [X] [ 067 - Comparison with the Less Than Operator](067-comparison-with-the-less-than-operator.js)
+- [X] [ 068 - Comparison with the Less Than Or Equal To Operator](068-comparisons-with-the-logical-and-operator.js)
+- [X] [ 069 - Comparisons with the Logical And Operator](069-comparisons-with-the-logical-or-operator.js)
+- [X] [ 070 - Comparisons with the Logical Or Operator](070-comparison-with-the-less-than-or-equal-to-operator.js)
+- [X] [ 071 - Introducing Else Statements](071-introducing-else-statements.js)
+- [X] [ 072 - Introducing Else If Statements](072-introducing-else-if-statements.js)
+- [X] [ 073 - Logical Order in If Else Statements](073-logical-order-in-if-else-statements.js)
+- [X] [ 074 - Chaining If Else Statements](074-chaining-if-else-statements.js)
+- [X] [ 075 - Golf Code](075-golf-code.js)
+- [X] [ 076 - Selecting from Many Options with Switch Statements](076-selecting-from-many-options-with-switch-statements.js)
+- [X] [ 077 - Adding a Default Option in Switch Statements](077-adding-default-option-in-switch-statements.js)
+- [X] [ 078 - Multiple Identical Options in Switch Statements](078-multiple-identical-options-in-switch-statements.js)
+- [X] [ 079 - Replacing If Else Chains with Switch](079-replacing-if-else-chains-with-switch.js)
+- [X] [ 080 - Returning Boolean Values from Functions](080-returning-boolean-values-from-functions.js)
+- [X] [ 081 - Return Early Pattern for Functions](081-return-early-pattern-for-functions.js)
+- [X] [ 082 - Counting Cards](082-counting-cards.js)
+- [X] [ 083 - Build JavaScript Objects](083-build-js-objects.js)
+- [X] [ 084 - Accessing Object Properties with Dot Notation](084-accessing-object-properties-with-dot-notation.js)
+- [X] [ 085 - Accessing Object Properties with Bracket Notation](085-accessing-object-properties-with-bracket-notation.js)
+- [X] [ 086 - Accessing Object Properties with Variables](086-accessing-object-properties-with-variables.js)
+- [X] [ 087 - Updating Object Properties](087-updating-object-properties.js)
+- [X] [ 088 - Add New Properties to a JavaScript Object](088-add-new-properties-to-js-object.js)
+- [X] [ 089 - Delete Properties from a JavaScript Object](089-delete-properties-from-js-object.js)
+- [X] [ 090 - Using Objects for Lookups](090-using-objects-for-lookups.js)
+- [X] [ 091 - Testing Objects for Properties](091-testing-objects-for-properties.js)
+- [X] [ 092 - Manipulating Complex Objects](092-manipulating-complex-objects.js)
+- [X] [ 093 - Accessing Nested Objects](093-accessing-nested-objects.js)
+- [X] [ 094 - Accessing Nested Arrays](094-accessing-nested-arrays.js)
+- [X] [ 095 - Record Collection](095-record-collection.js)
+- [X] [ 096 - Iterate with JavaScript While Loops](096-iterate-with-js-while-loops.js)
+- [X] [ 097 - Iterate with JavaScript For Loops](097-iterate-with-js-for-loops.js)
+- [X] [ 098 - Iterate Odd Numbers With a For Loop](098-iterate-odd-numbers-with-for-loop.js)
+- [X] [ 099 - Count Backwards With a For Loop](099-count-backwards-with-for-loop.js)
+- [X] [ 100 - Iterate Through an Array with a For Loop](100-iterate-through-an-array-with-for-loop.js)
+- [X] [ 101 - Nesting For Loops](101-nesting-for-loops.js)
+- [X] [ 102 - Iterate with JavaScript Do...While Loops](102-iterate-with-js-do-while-loops.js)
+- [X] [ 103 - Replace Loops using Recursion](103-replace-loops-using-recursion.js)
+- [X] [ 104 - Profile Lookup](104-profile-lookup.js)
+- [X] [ 105 - Generate Random Fractions with JavaScript](105-generate-random-fractions.js)
+- [X] [ 106 - Generate Random Whole Numbers with JavaScript](106-generate-random-whole-numbers.js)
+- [X] [ 107 - Generate Random Whole Numbers within a Range](107-generate-random-whole-numbers-within-range.js)
+- [X] [ 108 - Use the parseInt Function](108-use-parseint-function.js)
+- [X] [ 109 - Use the parseInt Function with a Radix](109-use-parseint-function-with-radix.js)
+- [X] [ 110 - Use the Conditional (Ternary) Operator](110-use-conditional-ternary-operator.js)
+- [X] [ 111 - Use Multiple Conditional (Ternary) Operators](111-use-multiple-conditional-ternary-operators.js)
+- [X] [ 112 - Use Recursion to Create a Countdown](112-use-recursion-to-create-countdown.js)
+- [X] [ 113 - Use Recursion to Create a Range of Numbers](113-use-recursion-to-create-range-of-numbers.js)
 
 ⬅️ [Back to main file](../README.md)
 
