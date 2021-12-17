@@ -10,7 +10,7 @@ freeCodeCamp course description:
 ### Courses
 
 - [X] [Basic JavaScript](/01-basic-javascript/README.md)
-- [ ] [ES6]()
+- [ ] [ES6](/02-es6/README.md)
 - [ ] [Regular Expressions]()
 - [ ] [Debugging]()
 - [ ] [Basic Data Structures]()
