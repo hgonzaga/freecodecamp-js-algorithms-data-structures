@@ -1,6 +1,6 @@
 # Regular Expressions
 
-My solution proposals for the [Regular Expressions]()
+My solution proposals for the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
 exercises.
 
 freeCodeCamp module description:
