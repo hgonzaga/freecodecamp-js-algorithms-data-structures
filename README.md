@@ -13,7 +13,7 @@ freeCodeCamp course description:
 - [X] [ 02 - ES6](/02-es6/README.md)
 - [X] [ 03 - Regular Expressions](03-regular-expressions/README.md)
 - [X] [ 04 - Debugging](/04-debugging/README.md)
-- [ ] [ 05 - Basic Data Structures]()
+- [ ] [ 05 - Basic Data Structures](/05-basic-data-structures/README.md)
 - [ ] [ 06 - Basic Algorithm Scripting]()
 - [ ] [ 07 - Object Oriented Programming]()
 - [ ] [ 08 - Functional Programming]()
