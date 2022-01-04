@@ -14,7 +14,7 @@ freeCodeCamp course description:
 - [X] [ 03 - Regular Expressions](03-regular-expressions/README.md)
 - [X] [ 04 - Debugging](/04-debugging/README.md)
 - [X] [ 05 - Basic Data Structures](/05-basic-data-structures/README.md)
-- [ ] [ 06 - Basic Algorithm Scripting](06-basic-algorithm-scripting/README.md)
+- [X] [ 06 - Basic Algorithm Scripting](06-basic-algorithm-scripting/README.md)
 - [ ] [ 07 - Object Oriented Programming]()
 - [ ] [ 08 - Functional Programming]()
 - [ ] [ 09 - Intermediate Algorithm Scripting]()
