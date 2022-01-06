@@ -16,7 +16,7 @@ freeCodeCamp course description:
 - [X] [ 05 - Basic Data Structures](/05-basic-data-structures/README.md)
 - [X] [ 06 - Basic Algorithm Scripting](/06-basic-algorithm-scripting/README.md)
 - [X] [ 07 - Object Oriented Programming](/07-object-oriented-programming/README.md)
-- [ ] [ 08 - Functional Programming]()
+- [ ] [ 08 - Functional Programming](/08-functional-programming/README.md)
 - [ ] [ 09 - Intermediate Algorithm Scripting]()
 - [ ] [ 10 - JavaScript Algorithms and Data Structures Projects]()
 
