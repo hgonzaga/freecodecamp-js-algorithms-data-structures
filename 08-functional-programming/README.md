@@ -9,11 +9,11 @@ freeCodeCamp module description:
 
 ### Exercises
 
-- [ ] [ 01 - Learn About Functional Programming]()
-- [ ] [ 02 - Understand Functional Programming Terminology]()
-- [ ] [ 03 - Understand the Hazards of Using Imperative Code]()
-- [ ] [ 04 - Avoid Mutations and Side Effects Using Functional Programming]()
-- [ ] [ 05 - Pass Arguments to Avoid External Dependence in a Function]()
+- [X] [ 01 - Learn About Functional Programming](01-learn-about-functional-programming.js)
+- [X] [ 02 - Understand Functional Programming Terminology](02-understand-functional-programming-terminology.js)
+- [X] [ 03 - Understand the Hazards of Using Imperative Code](03-understand-the-hazards-of-using-imperative-code.js)
+- [X] [ 04 - Avoid Mutations and Side Effects Using Functional Programming](04-avoid-mutations-and-side-effects-using-functional-programming.js)
+- [X] [ 05 - Pass Arguments to Avoid External Dependence in a Function](05-pass-arguments-to-avoid-external-dependence-in-a-function.js)
 - [ ] [ 06 - Refactor Global Variables Out of Functions]()
 - [ ] [ 07 - Use the map Method to Extract Data from an Array]()
 - [ ] [ 08 - Implement map on a Prototype]()
