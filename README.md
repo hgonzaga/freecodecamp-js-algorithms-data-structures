@@ -17,7 +17,7 @@ freeCodeCamp course description:
 - [X] [ 06 - Basic Algorithm Scripting](/06-basic-algorithm-scripting/README.md)
 - [X] [ 07 - Object Oriented Programming](/07-object-oriented-programming/README.md)
 - [X] [ 08 - Functional Programming](/08-functional-programming/README.md)
-- [ ] [ 09 - Intermediate Algorithm Scripting]()
+- [ ] [ 09 - Intermediate Algorithm Scripting](/09-intermediate-algorithm-scripting/README.md)
 - [ ] [ 10 - JavaScript Algorithms and Data Structures Projects]()
 
 ### Languages
