@@ -9,14 +9,14 @@ freeCodeCamp module description:
 
 ### Exercises
 
-- [ ] [ 01 - Sum All Numbers in a Range]()
-- [ ] [ 02 - Diff Two Arrays]()
-- [ ] [ 03 - Seek and Destroy]()
-- [ ] [ 04 - Wherefore art thou]()
-- [ ] [ 05 - Spinal Tap Case]()
-- [ ] [ 06 - Pig Latin]()
-- [ ] [ 07 - Search and Replace]()
-- [ ] [ 08 - DNA Pairing]()
+- [X] [ 01 - Sum All Numbers in a Range](01-sum-all-numbers-in-a-range.js)
+- [X] [ 02 - Diff Two Arrays](02-diff-two-arrays.js)
+- [X] [ 03 - Seek and Destroy](03-seek-and-destroy.js)
+- [X] [ 04 - Wherefore art thou](04-wherefore-art-thou.js)
+- [X] [ 05 - Spinal Tap Case](05-spinal-tap-case.js)
+- [X] [ 06 - Pig Latin](06-pig-latin.js)
+- [X] [ 07 - Search and Replace](07-search-and-replace.js)
+- [X] [ 08 - DNA Pairing](08-dna-pairing.js)
 - [ ] [ 09 - Missing letters]()
 - [ ] [ 10 - Sorted Union]()
 - [ ] [ 11 - Convert HTML Entities]()
@@ -30,7 +30,6 @@ freeCodeCamp module description:
 - [ ] [ 19 - Arguments Optional]()
 - [ ] [ 20 - Make a Person]()
 - [ ] [ 21 - Map the Debris]()
-
 
 ⬅️ [Back to main file](../README.md)
 
