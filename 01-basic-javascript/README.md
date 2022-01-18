@@ -7,7 +7,7 @@ exercises.
 freeCodeCamp module description:
 > *"JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers. In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more."*
 
-### Exercises
+## Exercises
 
 - [X] [ 001 - Comment Your JavaScript Code](001-comment-your-code.js)
 - [X] [ 002 - Declare JavaScript Variables](002-declare-variables.js)
@@ -124,5 +124,7 @@ freeCodeCamp module description:
 - [X] [ 113 - Use Recursion to Create a Range of Numbers](113-use-recursion-to-create-range-of-numbers.js)
 
 ⬅️ [Back to main file](../README.md)
+
+---
 
 ###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.

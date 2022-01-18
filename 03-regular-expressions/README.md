@@ -6,7 +6,7 @@ exercises.
 freeCodeCamp module description:
 > *"Regular expressions, often shortened to "regex" or "regexp", are patterns that help programmers match, search, and replace text. Regular expressions are very powerful, but can be hard to read because they use special characters to make more complex, flexible matches. In this course, you'll learn how to use special characters, capture groups, positive and negative lookaheads, and other techniques to match any text you want."*
 
-### Exercises
+## Exercises
 
 - [X] [ 01 - Using the Test Method](01-using-the-test-method.js)
 - [X] [ 02 - Match Literal Strings](02-match-literal-strings.js)
@@ -44,5 +44,7 @@ freeCodeCamp module description:
 
 
 ⬅️ [Back to main file](../README.md)
+
+---
 
 ###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.

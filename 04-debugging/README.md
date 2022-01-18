@@ -6,7 +6,7 @@ exercises.
 freeCodeCamp module description:
 > *"Debugging is the process of going through your code, finding any issues, and fixing them. Issues in code generally come in three forms: syntax errors that prevent your program from running, runtime errors where your code has unexpected behavior, or logical errors where your code doesn't do what you intended. In this course, you'll learn how to use the JavaScript console to debug programs and prevent common issues before they happen."*
 
-### Exercises
+## Exercises
 
 - [X] [ 01 - Use the JavaScript Console to Check the Value of a Variable](01-use-the-js-console-to-check-the-value-of-a-variable.js)
 - [X] [ 02 - Understanding the Differences between the freeCodeCamp and Browser Console](02-understanding-the-differences-between-the-freeCodeCamp-and-browser-console.js)
@@ -22,5 +22,7 @@ freeCodeCamp module description:
 - [X] [ 12 - Prevent Infinite Loops with a Valid Terminal Condition](12-prevent-infinite-loops-with-a-valid-terminal-condition.js)
 
 ⬅️ [Back to main file](../README.md)
+
+---
 
 ###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.

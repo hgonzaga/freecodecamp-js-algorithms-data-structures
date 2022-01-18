@@ -7,7 +7,7 @@ exercises.
 freeCodeCamp module description:
 > *"OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, objects and classes organize code to describe things and what they can do. In this course, you'll learn the basic principles of OOP in JavaScript, including the this keyword, prototype chains, constructors, and inheritance."*
 
-### Exercises
+## Exercises
 
 - [X] [ 01 - Create a Basic JavaScript Object](01-create-a-basic-js-object.js)
 - [X] [ 02 - Use Dot Notation to Access the Properties of an Object](02-use-dot-notation-to-access-the-properties-of-an-object.js)
@@ -37,5 +37,7 @@ freeCodeCamp module description:
 - [X] [ 26 - Use an IIFE to Create a Module](26-use-an-iife-to-create-a-module.js)
 
 ⬅️ [Back to main file](../README.md)
+
+---
 
 ###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.

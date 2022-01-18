@@ -6,7 +6,7 @@ exercises.
 freeCodeCamp module description:
 > *"Data can be stored and accessed in many ways. You already know some common JavaScript data structures — arrays and objects. In this Basic Data Structures course, you'll learn more about the differences between arrays and objects, and which to use in different situations. You'll also learn how to use helpful JS methods like splice() and Object.keys() to access and manipulate data."*
 
-### Exercises
+## Exercises
 
 - [X] [ 01 - Use an Array to Store a Collection of Data](01-use-an-array-to-store-a-collection-of-data.js)
 - [X] [ 02 - Access an Array's Contents Using Bracket Notation](02-access-an-arrays-contents-using-bracket-notation.js)
@@ -30,5 +30,7 @@ freeCodeCamp module description:
 - [X] [ 20 - Modify an Array Stored in an Object](20-modify-an-array-stored-in-an-object.js)
 
 ⬅️ [Back to main file](../README.md)
+
+---
 
 ###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.

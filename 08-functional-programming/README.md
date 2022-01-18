@@ -7,7 +7,7 @@ exercises.
 freeCodeCamp module description:
 > *"Functional Programming is another popular approach to software development. In Functional Programming, code is organized into smaller, basic functions that can be combined to build complex programs. In this course, you'll learn the core concepts of Functional Programming including pure functions, how to avoid mutations, and how to write cleaner code with methods like .map() and .filter()."*
 
-### Exercises
+## Exercises
 
 - [X] [ 01 - Learn About Functional Programming](01-learn-about-functional-programming.js)
 - [X] [ 02 - Understand Functional Programming Terminology](02-understand-functional-programming-terminology.js)
@@ -35,5 +35,7 @@ freeCodeCamp module description:
 - [X] [ 24 - Introduction to Currying and Partial Application](24-introduction-to-currying-and-partial-application.js)
 
 ⬅️ [Back to main file](../README.md)
+
+---
 
 ###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.

@@ -7,7 +7,7 @@ exercises.
 freeCodeCamp module description:
 > *"Now that you know the basics of algorithmic thinking, along with OOP and Functional Programming, test your skills with the Intermediate Algorithm Scripting challenges."*
 
-### Exercises
+## Exercises
 
 - [X] [ 01 - Sum All Numbers in a Range](01-sum-all-numbers-in-a-range.js)
 - [X] [ 02 - Diff Two Arrays](02-diff-two-arrays.js)
@@ -32,5 +32,7 @@ freeCodeCamp module description:
 - [X] [ 21 - Map the Debris](21-map-the-debris.js)
 
 ⬅️ [Back to main file](../README.md)
+
+---
 
 ###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.

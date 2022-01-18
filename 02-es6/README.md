@@ -6,7 +6,7 @@ exercises.
 freeCodeCamp module description:
 > *"ECMAScript, or ES, is a standardized version of JavaScript. Because all major browsers follow this specification, the terms ECMAScript and JavaScript are interchangeable. Most of the JavaScript you've learned up to this point was in ES5 (ECMAScript 5), which was finalized in 2009. While you can still write programs in ES5, JavaScript is constantly evolving, and new features are released every year. ES6, released in 2015, added many powerful new features to the language. In this course, you'll learn these new features, including arrow functions, destructuring, classes, promises, and modules."*
 
-### Exercises
+## Exercises
 
 - [X] [ 01 - Compare Scopes of the var and let Keywords](01-compare-scopes-of-the-var-and-let-keywords.js)
 - [X] [ 02 - Mutate an Array Declared with const](02-mutate-an-array-declared-with-const.js)
@@ -39,5 +39,7 @@ freeCodeCamp module description:
 - [X] [ 29 - Handle a Rejected Promise with catch](29-handle-a-rejected-promise-with-catch.js)
 
 ⬅️ [Back to main file](../README.md)
+
+---
 
 ###### Disclaimer: This repository should not be viewed as a facilitator for these courses. <br> This is intended to highlight and memorize my journey through this certification.
