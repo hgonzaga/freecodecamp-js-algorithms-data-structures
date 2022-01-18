@@ -9,11 +9,11 @@ freeCodeCamp module description:
 
 ### Exercises
 
-- [ ] [ 1 - Palindrome Checker]()
-- [ ] [ 2 - Roman Numeral Converter]()
-- [ ] [ 3 - Caesars Cipher]()
-- [ ] [ 4 - Telephone Number Validator]()
-- [ ] [ 5 - Cash Register]()
+- [X] [ 1 - Palindrome Checker](1-palindrome-checker.js)
+- [X] [ 2 - Roman Numeral Converter](2-roman-numeral-converter.js)
+- [X] [ 3 - Caesars Cipher](3-caesars-cipher.js)
+- [X] [ 4 - Telephone Number Validator](4-telephone-number-validator.js)
+- [X] [ 5 - Cash Register](5-cash-register.js)
 
 ⬅️ [Back to main file](../README.md)
 
