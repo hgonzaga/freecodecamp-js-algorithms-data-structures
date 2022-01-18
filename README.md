@@ -20,6 +20,10 @@ freeCodeCamp course description:
 - [X] [ 09 - Intermediate Algorithm Scripting](/09-intermediate-algorithm-scripting/README.md)
 - [X] [ 10 - JavaScript Algorithms and Data Structures Projects](/10-javascript-algorithms-and-data-structures-projects/README.md)
 
+### Certificate link
+
+Verify this certification [here](https://freecodecamp.org/certification/hgonzaga/javascript-algorithms-and-data-structures).
+
 ### Languages
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" alt="javascript"/>
